@@ -1,2 +1,2 @@
 # zuitianlib
-a lib.
+goto wiki to learn more.
